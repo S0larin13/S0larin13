@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**S0larin13/S0larin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ansible, Linux, Grafana ...
 - 🌱 I’m currently learning ...
