@@ -11,3 +11,13 @@
 - ⚡ Fun fact: :airplane: 
 -  :house_with_garden:  ...
 -->
+
+:man_factory_worker:
+
+### Ansible playbook update centos and Plesk 
+
+[a link](https://github.com/S0larin13/ansible-quick-note/blob/main/update_plesk_server.yml)
+
+### Ansible playbook snaphot vphere
+
+[a link](https://github.com/S0larin13/ansible-quick-note/blob/main/snapshot_vpshere.yml)
