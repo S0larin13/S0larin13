@@ -22,3 +22,8 @@
 ### Ansible playbook snaphot vphere
 
 [a link](https://github.com/S0larin13/ansible-quick-note/blob/main/snapshot_vpshere.yml)
+
+### Ansible playbook role block log.
+
+[a link](https://github.com/S0larin13/ansible_role_block/blob/main/role_block.yml)
+
